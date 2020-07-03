@@ -1,14 +1,14 @@
 {
-  "name": "react-mailchimp-form",
+  "name": "react-mailchimp-form-updated",
   "version": "1.0.1",
-  "description": "React subscribe form for Mailchimp",
+  "description": "React subscribe form for Mailchimp with more config",
   "main": "dist/index.js",
   "scripts": {
     "build": "babel --plugins transform-es2015-modules-umd src --ignore __tests__ --out-dir ./dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/react-mailchimp-form.git"
+    "url": "git+https://github.com/nhc/react-mailchimp-form.git"
   },
   "keywords": [
     "react",
@@ -19,14 +19,14 @@
     "subscriptions"
   ],
   "author": {
-    "name": "Oscar Barajas",
-    "email": "oscar@dragons.mx"
+    "name": "Neil Charlton",
+    "email": "neil@bleepsystems.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gndx/react-mailchimp-form/issues"
+    "url": "https://github.com/nhc/react-mailchimp-form/issues"
   },
-  "homepage": "https://github.com/gndx/react-mailchimp-form#readme",
+  "homepage": "https://github.com/nhc/react-mailchimp-form#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
